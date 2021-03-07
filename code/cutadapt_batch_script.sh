@@ -6,6 +6,8 @@
 
 IFS=$'\n'
 
+current=$PWD
+
 if [ $# -ne 3 ] ; then
     echo "Usage:"
     echo "$0 takes three parameters, 
@@ -31,6 +33,16 @@ for rvsfastq in "${fwd[@]}"
 do
 	rvsname=$(echo "$rvsfastq" | sed -e "s/R1/R2/")
 	cutadapt -g "$fwdprm" -G "$rvsprm" --discard-untrimmed -o ./processed_files/"$rvsfastq" -p ./processed_files/"$rvsname" "$rvsfastq" "$rvsname" 
-	echo "$rvsfastq"
+	echo "$rvsfastq" >> ~/CTD_analysis/code/seqnames.txt
 done
 
+cd $1/processed_files
+
+while read line
+do
+ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> ~/CTD_analysis/code/seqreads.txt
+done < ~/CTD_analysis/code/seqnames.txt
+
+cd $current
+
+paste seqnames.txt seqreads.txt > seqtable.txt
