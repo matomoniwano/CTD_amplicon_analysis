@@ -36,13 +36,18 @@ do
 	echo "$rvsfastq" >> ~/CTD_analysis/code/seqnames.txt
 done
 
+while read line
+do
+ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> ~/CTD_analysis/code/seqreads_raw.txt
+done < ~/CTD_analysis/code/seqnames.txt
+
 cd $1/processed_files
 
 while read line
 do
-ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> ~/CTD_analysis/code/seqreads.txt
+ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> ~/CTD_analysis/code/seqreads_clipped.txt
 done < ~/CTD_analysis/code/seqnames.txt
 
 cd $current
 
-paste seqnames.txt seqreads.txt > seqtable.txt
+paste seqnames.txt seqreads_raw.txt seqreads_clipped.txt > seqtable.txt
