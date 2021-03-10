@@ -24,9 +24,9 @@ fi
 
 # Adding a path to fastq directory from the positional argument $1 
 fastqpath=$1
-# Adding a fwd primers sequence from the positional argument $2
+# Adding fwd primer sequences from the positional argument $2
 fwdprm=$2
-# Adding a rvs primers sequence from the positional argument $3
+# Adding rvs primer sequences from the positional argument $3
 rvsprm=$3
 
 # Extracting fwd fastq file names
