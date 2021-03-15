@@ -1,412 +1,618 @@
+FRAM-305-PS93-2-0048-7-15m_S1_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	380329	228516241	0	0	0	370624	373451	0	104507938	375859	0	104051142
+FRAM-306-PS93-2-0048-7-50m_S12_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	535609	321862980	0	0	0	522340	526116	0	147292634	529864	0	146567583
+FRAM-308-PS93-2-0050-7-5m_S23_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	233431	140224071	0	0	0	227087	229057	0	64035777	230421	0	63753325
+FRAM-309-PS93-2-0050-7-15m-chl-max_S34_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	266846	160360610	0	0	0	259955	261942	0	73302246	263711	0	72980462
+FRAM-310-PS93-2-0050-7-50m_S45_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	235810	141737449	0	0	0	229960	231867	0	64845976	233224	0	64533817
+FRAM-311-PS93-2-0058-8-10m_S56_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	256841	154371524	0	0	0	250414	252477	0	70613204	254173	0	70262268
+FRAM-312-PS93-2-0058-8-20m-chl-max_S67_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	399421	240013703	0	0	0	389940	392811	0	109959214	395393	0	109397036
+FRAM-313-PS93-2-0058-8-30m_S77_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	220529	132515159	0	0	0	215344	217705	0	60725800	217580	0	60399692
+FRAM-314-PS93-2-0064-4-15m_S2_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	622138	373581051	0	0	0	604830	609441	0	170537590	614583	0	169769234
+FRAM-315-PS93-2-0064-4-27m-chl-max_S13_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	574287	345065718	0	0	0	559063	563480	0	157647723	567682	0	156934941
+FRAM-316-PS93-2-0064-4-40m_S24_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	648489	389681554	0	0	0	631677	636100	0	178126986	641455	0	177275037
+FRAM-317-5-PS93-2-0074-2-15m_S35_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	546647	328512833	0	0	0	532515	536079	0	150155411	540526	0	149492076
+FRAM-318-6-PS93-2-0074-2-27m-chl-max_S46_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	400080	240439830	0	0	0	390724	393746	0	110180719	395800	0	109587740
+FRAM-319-7-PS93-2-0074-2-40m_S57_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	189160	113678513	0	0	0	184010	185866	0	51889740	186654	0	51651174
+FRAM-320-PS93-2-0080-7-10m_S68_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	315225	189385918	0	0	0	307978	310057	0	86841391	312172	0	86439052
+FRAM-321-PS93-2-0080-7-18m-chl-max_S78_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	281116	168877097	0	0	0	273791	275784	0	77201855	277819	0	76852494
+FRAM-322-PS93-2-0080-7-32m_S4_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	452767	271915280	0	0	0	441081	444542	0	124376399	447615	0	123747825
+FRAM-323-PS93-2-0086-2-15m_S15_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	376007	225759774	0	0	0	365698	368831	0	103117814	371325	0	102660668
+FRAM-324-PS93-2-0086-2-25m-chl-max_S26_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	161563	97019576	0	0	0	156443	158376	0	44114643	158999	0	43893659
+FRAM-325-PS93-2-0086-2-50m_S37_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	151251	90632192	0	0	0	147108	148788	0	41482377	149130	0	41277247
+FRAM-420-PS99-2-41-6-sfc-bactV4V5_S51_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	657268	394945639	0	0	0	642987	646085	0	181312610	652584	0	180348278
+FRAM-422-PS99-2-41-6-chl-max-bactV4V5_S63_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	100845	60615809	0	0	0	98733	99580	0	27840509	99755	0	27719138
+FRAM-424-PS99-2-41-6-bel-chl-max-bactV4V5_S75_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	260497	156473127	0	0	0	255129	256362	0	71941061	258411	0	71602126
+FRAM-435-PS99-2-44-1-chl-max-bactV4V5_S87_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	92393	55541824	0	0	0	89955	90793	0	25365421	91173	0	25250643
+FRAM-441-PS99-2-43-2-sfc-bactV4V5_S4_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	196751	118242933	0	0	0	192264	193401	0	54215752	194957	0	53956470
+FRAM-443-PS99-2-43-2-chl-max-bactV4V5_S16_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	455742	273970886	0	0	0	444926	447531	0	125465117	451227	0	124886547
+FRAM-444-PS99-2-43-2-bel-chl-max-bactV4V5_S28_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	200220	120368378	0	0	0	194593	196611	0	54873790	197700	0	54585660
+FRAM-463-PS99-2-48-11-sfc-bactV4V5_S40_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	141253	84832823	0	0	0	137861	138964	0	38873997	139582	0	38697850
+FRAM-466-PS99-2-48-11-chl-max-bactV4V5_S52_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	91073	54753592	0	0	0	87021	89296	0	24539360	88450	0	24409571
+FRAM-468-PS99-2-48-11-bel-chl-max-bactV4V5_S64_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	261125	156982338	0	0	0	255184	256856	0	71960034	258715	0	71607412
+FRAM-472-PS99-2-49-1-sfc-bactV4V5_S76_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	131413	78892916	0	0	0	128234	129171	0	36159987	129940	0	35989504
+FRAM-474-PS99-2-49-1-chl-max-bactV4V5_S88_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	96914	58251575	0	0	0	94399	95151	0	26619737	95737	0	26488304
+FRAM-476-PS99-2-49-1-bel-chl-max-bactV4V5_S5_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	196329	117950928	0	0	0	192027	193365	0	54150684	194401	0	53846414
+FRAM-481-PS99-2-50-1-sfc-bactV4V5_S17_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	140659	84547533	0	0	0	137283	138339	0	38712040	139180	0	38537940
+FRAM-483-PS99-2-50-1-chl-max-bactV4V5_S29_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	221141	132950341	0	0	0	215675	217400	0	60818567	218772	0	60539666
+FRAM-485-PS99-2-50-1-bel-chl-max-bactV4V5_S41_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	774423	465443919	0	0	0	756060	760444	0	213202044	767428	0	212195096
+FRAM-490-PS99-2-51-2-sfc-bactV4V5_S53_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	116712	70163140	0	0	0	113788	114908	0	32086537	115287	0	31946028
+FRAM-492-PS99-2-51-2-chl-max-bactV4V5_S65_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	161214	96884417	0	0	0	157316	158537	0	44361064	159464	0	44169453
+FRAM-494-PS99-2-51-2-bel-chl-max-bactV4V5_S77_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	116812	70085414	0	0	0	113693	114630	0	32060771	115230	0	31885960
+FRAM-531-PS99-2-55-1-sfc-bactV4V5_S89_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	131497	79046030	0	0	0	128075	129015	0	36115028	129999	0	35948795
+FRAM-533-PS99-2-55-1-chl-max-bactV4V5_S6_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	38636	23195693	0	0	0	37323	37929	0	10524130	37851	0	10479293
+FRAM-535-PS99-2-55-1-bel-chl-max-bactV4V5_S18_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	127777	76798503	0	0	0	124597	125590	0	35134740	126445	0	34943848
+FRAM-551-PS99-2-59-2-sfc-bactV4V5_S30_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	248160	149201010	0	0	0	242617	244161	0	68411148	246006	0	68093493
+FRAM-553-PS99-2-59-2-chl-max-bactV4V5_S42_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	38274	22992538	0	0	0	37000	37588	0	10433650	37501	0	10383934
+FRAM-555-PS99-2-59-2-bel-chl-max-bactV4V5_S54_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	168743	101417021	0	0	0	164348	165597	0	46343382	166849	0	46113783
+FRAM-560-PS99-2-59-6-sfc-bactV4V5_S66_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	136711	82202850	0	0	0	133548	134555	0	37658164	135391	0	37471513
+FRAM-563-PS99-2-59-6-chl-max-bactV4V5_S78_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	82428	49482771	0	0	0	80011	80822	0	22562173	81208	0	22451571
+FRAM-566-PS99-2-59-6-bel-chl-max-bactV4V5_S90_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	92739	55731778	0	0	0	90151	90983	0	25421661	91541	0	25286693
+FRAM-586-PS99-2-62-4-sfc-bactV4V5_S7_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	64218	38562174	0	0	0	62272	62986	0	17558230	63174	0	17481693
+FRAM-588-PS99-2-62-4-chl-max-bactV4V5_S19_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	131416	78979144	0	0	0	127908	128890	0	36067879	129746	0	35906725
+FRAM-590-PS99-2-62-4-bel-chl-max-bactV4V5_S31_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	178387	107199267	0	0	0	173167	174663	0	48831070	175939	0	48593193
+FRAM-609-PS99-2-63-2-sfc-bactV4V5_S43_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	413057	248268661	0	0	0	404444	406671	0	114042593	409399	0	113536702
+FRAM-611-PS99-2-63-2-chl-max-bactV4V5_S55_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	142406	85612985	0	0	0	138999	140027	0	39195223	140827	0	39022166
+FRAM-613-PS99-2-63-2-bel-chl-max-bactV4V5_S67_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	386855	232519078	0	0	0	377330	379669	0	106404193	382460	0	105891942
+FRAM-618-PS99-2-64-2-sfc-bactV4V5_S79_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	97773	58610591	0	0	0	94707	95613	0	26704927	96069	0	26587367
+FRAM-620-PS99-2-64-2-chl-max-bactV4V5_S91_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	39651	23814866	0	0	0	38085	38683	0	10739534	38632	0	10688155
+FRAM-622-PS99-2-64-2-bel-chl-max-bactV4V5_S8_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	60610	36416483	0	0	0	58870	59495	0	16601228	59743	0	16516937
+FRAM-624-PS99-2-65-2-sfc-bactV4V5_S20_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	169258	101759488	0	0	0	165209	166335	0	46585991	167612	0	46379180
+FRAM-626-PS99-2-65-2-chl-max-bactV4V5_S32_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	121591	73090252	0	0	0	118449	119437	0	33399390	120189	0	33243648
+FRAM-628-PS99-2-65-2-bel-chl-max-bactV4V5_S44_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	188909	113576633	0	0	0	184560	185754	0	52044326	187188	0	51792497
+FRAM-630-PS99-2-66-2-sfc-bactV4V5_S56_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	172257	103583495	0	0	0	168431	169498	0	47492440	170747	0	47282805
+FRAM-632-PS99-2-66-2-chl-max-bactV4V5_S68_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	31455	18903646	0	0	0	30489	30968	0	8597176	30851	0	8557973
+FRAM-634-PS99-2-66-2-bel-chl-max-bactV4V5_S80_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	125490	75402337	0	0	0	122302	123235	0	34486296	123961	0	34329970
+FRAM-3554-DNA-PS114-CTD-1_S77_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	96159	57808268	0	0	0	94208	94794	0	26565980	95447	0	26446318
+FRAM-3555-DNA-PS114-CTD-5_S89_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	59787	35176335	0	0	0	56986	57339	0	16069485	57743	0	15998515
+FRAM-3557-DNA-PS114-CTD-9_S7_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	223439	134363367	0	0	0	218737	220351	0	61681303	221708	0	61372743
+FRAM-3558-DNA-PS114-CTD-19_S18_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	156455	94095947	0	0	0	152992	154079	0	43141764	155252	0	42944648
+FRAM-3559-DNA-PS114-CTD-23_S30_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	153865	92501358	0	0	0	150854	151715	0	42538306	152670	0	42350925
+FRAM-3561-DNA-PS114-CTD-27_S42_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	190479	114545290	0	0	0	186412	187901	0	52565690	188875	0	52299148
+FRAM-3562-DNA-PS114-CTD-37_S54_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	128735	77416642	0	0	0	126310	126914	0	35617334	127922	0	35459323
+FRAM-3563-DNA-PS114-CTD-41_S66_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	130169	78306350	0	0	0	127731	128577	0	36018722	129237	0	35862965
+FRAM-3565-DNA-PS114-CTD-45_S78_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	122586	73679221	0	0	0	120061	120867	0	33856348	121625	0	33690192
+FRAM-3566-DNA-PS114-CTD-53_S90_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	101672	60154925	0	0	0	97433	98087	0	27474674	98809	0	27349425
+FRAM-3567-DNA-PS114-CTD-57_S8_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	103730	62387938	0	0	0	101597	102342	0	28647846	102917	0	28515663
+FRAM-3569-DNA-PS114-CTD-61_S19_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	186317	112061237	0	0	0	182596	183793	0	51487560	184972	0	51248997
+FRAM-3570-DNA-PS114-CTD-63_S31_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	183621	110418624	0	0	0	179967	181249	0	50748210	182232	0	50487958
+FRAM-3571-DNA-PS114-CTD-67_S43_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	165457	99529451	0	0	0	162189	163269	0	45735743	164317	0	45524645
+FRAM-3573-DNA-PS114-CTD-71_S55_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	184217	110808391	0	0	0	180765	182004	0	50973407	182894	0	50731509
+FRAM-3574-DNA-PS114-CTD-73_S67_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	191270	115039528	0	0	0	187526	188854	0	52878483	189856	0	52622456
+FRAM-3575-DNA-PS114-CTD-75_S79_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	108967	65509800	0	0	0	106923	107518	0	30150856	108247	0	30008658
+FRAM-3577-DNA-PS114-CTD-79_S91_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	76225	45175582	0	0	0	73347	73833	0	20682706	74266	0	20589230
+FRAM-3578-DNA-PS114-CTD-81_S9_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	135825	81686904	0	0	0	132863	133755	0	37464945	134863	0	37290338
+FRAM-3579-DNA-PS114-CTD-85_S20_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	247097	148611150	0	0	0	241976	243582	0	68232143	245321	0	67927740
+FRAM-3581-DNA-PS114-CTD-89_S32_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	333032	200288013	0	0	0	326243	328572	0	91997068	330475	0	91545946
+FRAM-3582-DNA-PS114-CTD-99_S44_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	200445	120540316	0	0	0	196468	197791	0	55401441	199000	0	55124498
+FRAM-3583-DNA-PS114-CTD-101_S56_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	120863	72683682	0	0	0	118586	119287	0	33440178	120061	0	33272642
+FRAM-3585-DNA-PS114-CTD-105_S68_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	123004	73961896	0	0	0	120708	121565	0	34032244	122074	0	33863350
+FRAM-4180-DNA-PS107-CTD-1085_S25_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	143362	86226542	0	0	0	140638	141568	0	39659500	142380	0	39464268
+FRAM-4181-DNA-PS107-CTD-1079_S14_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	148479	89282244	0	0	0	145525	146523	0	41036439	147369	0	40816408
+FRAM-4183-DNA-PS107-CTD-1106_S61_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	128518	77293991	0	0	0	126174	126999	0	35579466	127653	0	35403867
+FRAM-4184-DNA-PS107-CTD-1057_S72_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	153883	92491047	0	0	0	150824	151854	0	42531454	152679	0	42310238
+FRAM-4186-DNA-PS107-CTD-1187_S63_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	134696	81017860	0	0	0	132208	133002	0	37280918	133833	0	37108139
+FRAM-4187-DNA-PS107-CTD-1181_S51_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	54167	32558895	0	0	0	51414	53470	0	14498620	51993	0	14418623
+FRAM-4190-DNA-PS107-CTD-1173_S27_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	142994	86011790	0	0	0	139760	141229	0	39411340	141419	0	39226528
+FRAM-4191-DNA-PS107-CTD-1169A_S4_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	702	419602	0	0	0	681	694	0	192040	683	0	191075
+FRAM-4192-DNA-PS107-CTD-1013_S13_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	230550	138717864	0	0	0	227524	229428	0	64161756	228606	0	63892355
+FRAM-4193-DNA-PS107-CTD-1251_S17_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	241498	145281300	0	0	0	236595	238264	0	66718418	239724	0	66417202
+FRAM-4194-DNA-PS107-CTD-1225_S40_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	217188	130637347	0	0	0	212850	214262	0	60022725	215670	0	59738593
+FRAM-4195-PS121-CTD-DNA-1-bactV4V5_S1_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	127308	75283176	0	0	0	121800	122849	0	34341491	123560	0	34193202
+FRAM-4197-PS121-CTD-DNA-3-bactV4V5_S13_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	167248	99120942	0	0	0	160498	161629	0	45252549	162990	0	45056260
+FRAM-4203-PS121-CTD-DNA-9-bactV4V5_S25_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	126405	73395777	0	0	0	118958	120096	0	33545585	120314	0	33348138
+FRAM-4205-PS121-CTD-DNA-11-bactV4V5_S37_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	98796	58654809	0	0	0	94825	95718	0	26737476	96230	0	26619234
+FRAM-4207-PS121-CTD-DNA-13-bactV4V5_S49_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	219967	130913431	0	0	0	212597	213930	0	59946987	215515	0	59679102
+FRAM-4213-PS121-CTD-DNA-19-bactV4V5_S61_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	113721	67788056	0	0	0	109947	110978	0	31003921	111347	0	30833345
+FRAM-4215-PS121-CTD-DNA-21-bactV4V5_S73_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	119535	71114940	0	0	0	115188	116243	0	32479740	116796	0	32337173
+FRAM-4217-PS121-CTD-DNA-23-bactV4V5_S85_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	99605	59011121	0	0	0	95599	96376	0	26956872	96882	0	26838680
+FRAM-4223-PS121-CTD-DNA-29-bactV4V5_S2_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	117451	47554980	0	0	0	71776	72472	0	20240907	73173	0	20143465
+FRAM-4235-PS121-CTD-DNA-41-bactV4V5_S14_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	266009	157478522	0	0	0	255618	257216	0	72076508	259164	0	71757917
+FRAM-4237-PS121-CTD-DNA-43-bactV4V5_S26_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	18502	10989688	0	0	0	17330	17963	0	4886916	17529	0	4860744
+FRAM-4242-PS121-CTD-DNA-48-bactV4V5_S38_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	157562	50140644	0	0	0	71179	71943	0	20072078	72704	0	19973596
+FRAM-4251-PS121-CTD-DNA-57-bactV4V5_S50_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	155008	91884609	0	0	0	148994	150030	0	42012002	151108	0	41824505
+FRAM-4253-PS121-CTD-DNA-59-bactV4V5_S62_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	203145	120132308	0	0	0	194767	196133	0	54919028	197477	0	54671542
+FRAM-4259-PS121-CTD-DNA-65-bactV4V5_S74_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	52959	19960325	0	0	0	29365	29863	0	8280907	29995	0	8241611
+FRAM-4261-PS121-CTD-DNA-67-bactV4V5_S86_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	35266	20806748	0	0	0	33402	33864	0	9418988	33874	0	9377013
+FRAM-4263-PS121-CTD-DNA-69-bactV4V5_S3_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	184824	109303709	0	0	0	177118	178272	0	49943590	179732	0	49715025
+FRAM-4269-PS121-CTD-DNA-75-bactV4V5_S15_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	143610	73374300	0	0	0	115673	116727	0	32619507	117795	0	32459752
+FRAM-4271-PS121-CTD-DNA-77-bactV4V5_S27_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	118146	69889198	0	0	0	113045	114040	0	31877006	114702	0	31732985
+FRAM-4273-PS121-CTD-DNA-79-bactV4V5_S39_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	99452	58825607	0	0	0	95118	96027	0	26820715	96423	0	26695082
+FRAM-4279-PS121-CTD-DNA-85-bactV4V5_S9_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	71010	20792216	0	0	0	28413	28943	0	8012032	29063	0	7973729
+FRAM-4281-PS121-CTD-DNA-87-bactV4V5_S21_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	219659	129596949	0	0	0	209797	211167	0	59156938	212989	0	58888127
+FRAM-4283-PS121-CTD-DNA-89-bactV4V5_S33_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	130814	77004378	0	0	0	124405	125497	0	35077363	126151	0	34915663
+FRAM-4289-PS121-CTD-DNA-95-bactV4V5_S45_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	77480	37626083	0	0	0	58585	59313	0	16520741	59699	0	16431171
+FRAM-4291-PS121-CTD-DNA-97-bactV4V5_S57_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	234206	137883147	0	0	0	223112	224688	0	62911507	226293	0	62620834
+FRAM-4293-PS121-CTD-DNA-99-bactV4V5_S69_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	219114	129241059	0	0	0	209229	210703	0	58997156	212310	0	58729717
+FRAM-4299-PS121-CTD-DNA-105-bactV4V5_S81_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	378478	111000981	0	0	0	153481	154941	0	43278220	157061	0	43083748
+FRAM-4301-PS121-CTD-DNA-107-bactV4V5_S93_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	88980	52671570	0	0	0	85045	85834	0	23980309	86226	0	23865764
+FRAM-4303-PS121-CTD-DNA-109-bactV4V5_S10_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	158834	94227510	0	0	0	152603	153699	0	43030179	154881	0	42832429
+FRAM-4306-PS121-CTD-DNA-112-bactV4V5_S22_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	232466	138029337	0	0	0	223332	224870	0	62976146	226599	0	62681476
+FRAM-4309-PS121-CTD-DNA-115-bactV4V5_S34_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	434123	254865576	0	0	0	413818	416855	0	116691185	419302	0	116027539
+FRAM-4311-PS121-CTD-DNA-117-bactV4V5_S46_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	187996	111107627	0	0	0	179916	181195	0	50731172	182557	0	50493602
+FRAM-4313-PS121-CTD-DNA-119-bactV4V5_S58_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	211388	125468547	0	0	0	203398	204926	0	57354403	206178	0	57083829
+FRAM-4319-PS121-CTD-DNA-125-bactV4V5_S70_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	225003	133542284	0	0	0	216981	218560	0	61186972	219931	0	60850171
+FRAM-4329-PS121-CTD-DNA-135-bactV4V5_S82_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	137345	81078002	0	0	0	131107	132160	0	36968930	132999	0	36803107
+FRAM-4331-PS121-CTD-DNA-137-bactV4V5_S94_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	68281	40490588	0	0	0	65221	65838	0	18390968	66197	0	18305497
+FRAM-4337-PS121-CTD-DNA-143-bactV4V5_S11_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	415921	246084989	0	0	0	399056	401901	0	112528861	404616	0	111919268
+FRAM-4339-PS121-CTD-DNA-145-bactV4V5_S23_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	227096	134400672	0	0	0	217680	219148	0	61380101	220929	0	61086747
+FRAM-4341-PS121-CTD-DNA-147-bactV4V5_S35_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	254498	150312242	0	0	0	243361	245094	0	68621990	246878	0	68294871
+FRAM-4347-PS121-CTD-DNA-153-bactV4V5_S47_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	240643	142914674	0	0	0	231720	233322	0	65341915	234940	0	65013317
+FRAM-4349-PS121-CTD-DNA-155-bactV4V5_S59_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	336456	199325062	0	0	0	322900	324922	0	91050329	327874	0	90616047
+FRAM-4351-PS121-CTD-DNA-157-bactV4V5_S71_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	225417	132866013	0	0	0	215224	216733	0	60688597	218319	0	60415423
+FRAM-4357-PS121-CTD-DNA-163-bactV4V5_S83_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	119148	70538279	0	0	0	114293	115406	0	32230089	115719	0	32042338
+FRAM-4359-PS121-CTD-DNA-165-bactV4V5_S95_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	87407	51207958	0	0	0	82411	83299	0	23237920	83639	0	23135435
+FRAM-4361-PS121-CTD-DNA-167-bactV4V5_S12_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	192882	113763273	0	0	0	184171	185378	0	51931189	186974	0	51699623
+FRAM-4367-PS121-CTD-DNA-173-bactV4V5_S24_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	261973	155169941	0	0	0	252023	253823	0	71067650	255545	0	70658399
+FRAM-4369-PS121-CTD-DNA-175-bactV4V5_S36_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	203596	120077117	0	0	0	194979	195985	0	54978396	197630	0	54731270
+FRAM-4371-PS121-CTD-DNA-177-bactV4V5_S48_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	180082	106729767	0	0	0	173280	174208	0	48861135	175733	0	48639398
+FRAM-4377-PS121-CTD-DNA-183-bactV4V5_S60_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	131615	78192564	0	0	0	127429	128104	0	35933982	128989	0	35733104
+FRAM-4379-PS121-CTD-DNA-185-bactV4V5_S72_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	112982	66949384	0	0	0	108974	109514	0	30730030	110418	0	30576180
+FRAM-4381-PS121-CTD-DNA-187-bactV4V5_S84_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	110509	65067417	0	0	0	105829	106381	0	29842725	107217	0	29682216
+FRAM-4387-PS121-CTD-DNA-193-bactV4V5_S96_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	198295	116542805	0	0	0	188439	189578	0	53134363	191421	0	52896202
+FRAM-4389-DNA-PS121-CTD-215_S69_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	166608	97989930	0	0	0	158482	159529	0	44689271	160899	0	44490775
+FRAM-4393-DNA-PS121-CTD-219_S81_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	141425	83670697	0	0	0	136106	136980	0	38379588	137918	0	38166761
+FRAM-4397-DNA-PS121-CTD-223_S93_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	201139	118317499	0	0	0	191394	192668	0	53970895	194190	0	53685591
+FRAM-4399-DNA-PS121-CTD-225_S11_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	173227	101984332	0	0	0	165207	166212	0	46585022	167788	0	46371679
+FRAM-4401-DNA-PS121-CTD-227_S22_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	99894	59147514	0	0	0	96065	96664	0	27088510	97383	0	26959688
+FRAM-4404-DNA-PS121-CTD-230_S34_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	105728	62294460	0	0	0	100978	101730	0	28474929	102355	0	28332250
+FRAM-4407-DNA-PS121-CTD-233_S46_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	130620	77122912	0	0	0	125125	125995	0	35283458	126965	0	35097495
+FRAM-4409-DNA-PS121-CTD-235_S58_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	90883	53512841	0	0	0	86466	87047	0	24381714	87997	0	24272138
+FRAM-4411-DNA-PS121-CTD-237_S70_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	93395	55064104	0	0	0	89332	89953	0	25189950	90554	0	25066645
+FRAM-4417-DNA-PS121-CTD-243_S82_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	142389	83417493	0	0	0	135099	136019	0	38096789	137148	0	37894493
+FRAM-4419-DNA-PS121-CTD-245_S94_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	111458	64811228	0	0	0	104397	105137	0	29439161	106201	0	29297991
+FRAM-4421-DNA-PS121-CTD-247_S12_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	229022	134913355	0	0	0	218429	219905	0	61593108	221864	0	61296554
+FRAM-4427-DNA-PS121-CTD-253_S23_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	239798	141793940	0	0	0	230058	231815	0	64874222	233373	0	64525739
+FRAM-4429-DNA-PS121-CTD-255_S35_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	351367	205038216	0	0	0	331765	333820	0	93542690	336822	0	93126546
+FRAM-4431-DNA-PS121-CTD-257_S47_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	176352	103185358	0	0	0	166888	168001	0	47058094	169439	0	46836852
+FRAM-4433-DNA-PS121-CTD-259_S59_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	168715	98300280	0	0	0	158832	159865	0	44787545	161358	0	44576906
+FRAM-4437-DNA-PS121-CTD-263_S71_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	161548	93973964	0	0	0	151860	152932	0	42821709	154155	0	42604952
+FRAM-5292-DNA-PS107-CTD-1007_S1_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	197788	118932111	0	0	0	193934	195414	0	54688625	196230	0	54395748
+FRAM-5302-DNA-PS107-CTD-1019_S24_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	350336	210740776	0	0	0	343213	345491	0	96783174	347833	0	96363138
+FRAM-5317-DNA-PS107-CTD-1033_S36_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	227081	136543011	0	0	0	222729	224350	0	62808018	225316	0	62471405
+FRAM-5319-DNA-PS107-CTD-1036_S48_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	230872	138837791	0	0	0	226202	227747	0	63786916	229243	0	63453065
+FRAM-5325-DNA-PS107-CTD-1042_S60_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	145675	87616112	0	0	0	143028	143932	0	40332927	144728	0	40130831
+FRAM-5343-DNA-PS107-CTD-1063_S84_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	157600	93847693	0	0	0	152456	153473	0	42991616	154465	0	42801628
+FRAM-5349-DNA-PS107-CTD-1069_S2_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	177351	106705273	0	0	0	173786	175206	0	49006492	175890	0	48801146
+FRAM-5369-DNA-PS107-CTD-1091_S37_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	268094	161150141	0	0	0	262484	264411	0	74016741	266013	0	73614145
+FRAM-5378-DNA-PS107-CTD-1100_S49_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	156428	94051564	0	0	0	153377	154520	0	43250745	155218	0	43008527
+FRAM-5385-DNA-PS107-CTD-1108_S73_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	93345	56094189	0	0	0	91550	92120	0	25816487	92670	0	25681591
+FRAM-5392-DNA-PS107-CTD-1117_S85_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	60844	35871003	0	0	0	58058	58565	0	16372047	58823	0	16279888
+FRAM-5398-DNA-PS107-CTD-1126_S3_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	204357	122909309	0	0	0	200387	201798	0	56508104	202901	0	56222321
+FRAM-5400-DNA-PS107-CTD-1129_S15_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	136528	82107682	0	0	0	133860	134863	0	37748161	135494	0	37549825
+FRAM-5404-DNA-PS107-CTD-1133_S26_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	212643	127858755	0	0	0	208245	209864	0	58723138	210938	0	58404828
+FRAM-5409-DNA-PS107-CTD-1139_S38_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	149977	90189827	0	0	0	147031	148080	0	41461300	148890	0	41239659
+FRAM-5410-DNA-PS107-CTD-1141_S50_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	178042	107078783	0	0	0	174636	175775	0	49245919	176847	0	48994721
+FRAM-5418-DNA-PS107-CTD-1151_S62_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	190747	114696753	0	0	0	186980	188340	0	52726630	189261	0	52447285
+FRAM-5424-DNA-PS107-CTD-1157_S74_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	137415	82633366	0	0	0	134995	135941	0	38066425	136399	0	37884676
+FRAM-5426-DNA-PS107-CTD-1159_S86_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	68049	40240518	0	0	0	65328	65752	0	18422118	66153	0	18340159
+FRAM-5442-DNA-PS107-CTD-1177_S39_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	144501	86923806	0	0	0	141781	142711	0	39981091	143518	0	39798680
+FRAM-5452-DNA-PS107-CTD-1189_S75_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	121187	72878195	0	0	0	118922	119641	0	33535371	120367	0	33390193
+FRAM-5465-DNA-PS107-CTD-1203_S87_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	46778	27489132	0	0	0	44532	44830	0	12557759	45085	0	12491935
+FRAM-5470-DNA-PS107-CTD-1209_S5_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	168684	101474764	0	0	0	165346	166423	0	46626392	167546	0	46425653
+FRAM-5472-DNA-PS107-CTD-1211_S16_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	219788	132250626	0	0	0	215677	217078	0	60819292	218330	0	60568775
+FRAM-5480-DNA-PS107-CTD-1219_S28_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	275431	165620094	0	0	0	270351	272445	0	76237990	273215	0	75818805
+FRAM-5486-DNA-PS107-CTD-1227_S52_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	258697	155615975	0	0	0	253485	255333	0	71481753	256682	0	71159594
+FRAM-5490-DNA-PS107-CTD-1231_S64_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	191919	115409511	0	0	0	186798	188146	0	52675322	190512	0	52411504
+FRAM-5496-DNA-PS107-CTD-1237_S76_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	92137	55373216	0	0	0	90293	90840	0	25461747	91409	0	25347619
+FRAM-5504-DNA-PS107-CTD-1245_S6_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	207212	124604437	0	0	0	203265	204765	0	57318213	205604	0	57020597
+FRAM-5510-DNA-PS107-CTD-1253_S29_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	206600	124287372	0	0	0	202384	203840	0	57070375	205083	0	56817049
+FRAM-5512-DNA-PS107-CTD-1255_S41_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	205549	123611557	0	0	0	201404	202884	0	56794499	203877	0	56504502
+FRAM-5518-DNA-PS107-CTD-1261_S53_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	142058	85445565	0	0	0	139188	140151	0	39250153	141008	0	39067755
+FRAM-5520-DNA-PS107-CTD-1263_S65_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	106159	63860249	0	0	0	104165	104808	0	29373672	105466	0	29241590
+FRAM-5669-DNA-PS114-CTD-119_S80_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	80633	48462362	0	0	0	79073	79539	0	22297657	80046	0	22199874
+FRAM-5671-DNA-PS114-CTD-121_S92_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	70600	41568123	0	0	0	67340	67790	0	18989326	68239	0	18898306
+FRAM-5675-DNA-PS114-CTD-125_S10_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	212524	127782568	0	0	0	208100	209618	0	58682997	210892	0	58364544
+FRAM-5681-DNA-PS114-CTD-131_S21_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	141690	85233223	0	0	0	138715	139654	0	39115792	140686	0	38942523
+FRAM-5685-DNA-PS114-CTD-135_S33_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	214444	128996025	0	0	0	210470	211744	0	59351018	213087	0	59081264
+FRAM-5689-DNA-PS114-CTD-139_S45_L001_R1_001.fastq.gz												
 status	in_reads	in_bp	too_short	too_long	too_many_n	out_reads	w/adapters	qualtrim_bp	out_bp	w/adapters2	qualtrim2_bp	out2_bp
 OK	142772	85838980	0	0	0	139927	141012	0	39458447	141616	0	39239226
