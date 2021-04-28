@@ -42,16 +42,16 @@ cd $1
 for rvsfastq in "${fwd[@]}"
 do
 	rvsname=$(echo "$rvsfastq" | sed -e "s/R1/R2/")
-	echo "$rvsfastq" >> ~/CTD_analysis/code/cutadapt_summary.txt
-	cutadapt -g "$fwdprm" -G "$rvsprm" --discard-untrimmed -o ./processed_files/"$rvsfastq" -p ./processed_files/"$rvsname" "$rvsfastq" "$rvsname" >> ~/CTD_analysis/code/cutadapt_summary.txt
-	echo "$rvsfastq" >> ~/CTD_analysis/code/seqnames.txt
+	echo "$rvsfastq" >> $current/cutadapt_summary.txt
+	cutadapt -g "$fwdprm" -G "$rvsprm" --discard-untrimmed -o ./processed_files/"$rvsfastq" -p ./processed_files/"$rvsname" "$rvsfastq" "$rvsname" >> $current/cutadapt_summary.txt
+	echo "$rvsfastq" >> $current/seqnames.txt
 done
 
 # Counting sequence reads from raw fastq files
 while read line
 do
-ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> ~/CTD_analysis/code/seqreads_raw.txt
-done < ~/CTD_analysis/code/seqnames.txt
+ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> $current/seqreads_raw.txt
+done < $current/seqnames.txt
 
 # Move to processed fastq directory
 cd $1/processed_files
@@ -59,11 +59,13 @@ cd $1/processed_files
 # Counting sequence reads from clipped fastq files
 while read line
 do
-ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> ~/CTD_analysis/code/seqreads_clipped.txt
-done < ~/CTD_analysis/code/seqnames.txt
+ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> $current/seqreads_clipped.txt
+done < $current/seqnames.txt
 
 # Back to the working directory
 cd $current
 
 # Create a table with all the stats
 paste seqnames.txt seqreads_raw.txt seqreads_clipped.txt > seqtable.txt
+
+## All the summary files generated in this script are exported in the current working directory
