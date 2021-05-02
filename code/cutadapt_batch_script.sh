@@ -68,4 +68,4 @@ cd $current
 # Create a table with all the stats
 paste seqnames.txt seqreads_raw.txt seqreads_clipped.txt > seqtable.txt
 
-## All the summary files generated in this script are exported in the current working directory
+# All the summary files generated in this script are exported in the current working directory
