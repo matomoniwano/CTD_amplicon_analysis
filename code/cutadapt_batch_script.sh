@@ -13,10 +13,10 @@ current=$PWD
 # Error message for missing positional arguments when running this script
 if [ $# -ne 3 ] ; then
     echo "Usage:"
-    echo "$0 takes three parameters, 
-    echo '$1' = path to fastq directory
-    echo '$2' = forward primers
-    echo '$3' = reverse primers
+    echo "$0 takes three parameters"
+    echo '$1 = path to fastq directory'
+    echo '$2 = forward primers'
+    echo '$3 = reverse primers'
     exit 1
 else
     echo 'Running cutadapt in batches'
