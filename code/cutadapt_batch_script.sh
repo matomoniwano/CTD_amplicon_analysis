@@ -33,7 +33,7 @@ rvsprm=$3
 fwd=($(ls -1v $1 | grep 'R1'))
 
 # Creating a new directory for clipped fastq files
-mkdir $1/../processed_files  #suggesting to name "Clipped" to specify which process has been running
+mkdir $1/../Clipped  #suggesting to name "Clipped" to specify which process has been running
 
 # Move to fastq directory
 cd $1
@@ -43,7 +43,7 @@ for rvsfastq in "${fwd[@]}"
 do
 	rvsname=$(echo "$rvsfastq" | sed -e "s/R1/R2/")
 	echo "$rvsfastq" >> $current/cutadapt_summary.txt
-	cutadapt -g "$fwdprm" -G "$rvsprm" --discard-untrimmed -o ./../processed_files/"$rvsfastq" -p ./../processed_files/"$rvsname" "$rvsfastq" "$rvsname" >> $current/cutadapt_summary.txt
+	cutadapt -g "$fwdprm" -G "$rvsprm" --discard-untrimmed -o ./../Clipped/"$rvsfastq" -p ./../Clipped/"$rvsname" "$rvsfastq" "$rvsname" >> $current/cutadapt_summary.txt
 	echo "$rvsfastq" >> $current/seqnames.txt
 done
 
@@ -54,7 +54,7 @@ ls -1v "${line}" | xargs wc -l | grep -v "total" | awk '{print $1/4}' >> $curren
 done < $current/seqnames.txt
 
 # Move to processed fastq directory
-cd $1/../processed_files
+cd $1/../Clipped
 
 # Counting sequence reads from clipped fastq files
 while read line
